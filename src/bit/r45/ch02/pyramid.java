@@ -2,7 +2,7 @@ package bit.r45.ch02;
 
 import java.util.Scanner;
 
-public class piramid {
+public class pyramid {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

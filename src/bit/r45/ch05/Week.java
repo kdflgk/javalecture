@@ -1,0 +1,11 @@
+package bit.r45.ch05;
+
+public enum Week {
+	  MONDAY,
+	  TUESDAY,
+	  WEDNESDAY,
+	  THURSDAY,
+	  FRIDAY,
+	  SATURDAY,
+	  SUNDAY
+}
